@@ -1,0 +1,9 @@
+{
+  "llave": "valor",
+  "array": [1, 2, 3],
+  "objeto": {
+    "llave": "valor"
+  },
+  "numero": 14,
+  "texto": "cadena de texto"
+}
